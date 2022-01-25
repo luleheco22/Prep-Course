@@ -1,0 +1,26 @@
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: aliceblue;
+    padding: 50px;
+    border: 20px double red
+    
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+body{
+    background-image: url("https://img.freepik.com/foto-gratis/fondo-acuarela-pintada-mano-forma-cielo-nubes_24972-1095.jpg?size=626&ext=jpg");
+    background-size: auto;
+}
+
+h1{
+    color:blueviolet
+}
+
+img{
+    width: 400px;
+}
